@@ -1,4 +1,4 @@
-echo "# 📅 Plan With Sanket
+# 📅 Plan With Sanket
 
 **Plan With Sanket** is a simple task planning app built using **React.js**. It helps users manage their daily tasks with an intuitive interface and real-time updates using React state management.
 
