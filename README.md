@@ -34,7 +34,7 @@ The app will start on: [http://localhost:3000](http://localhost:3000)
 
 ## 🧠 Key Concept
 
-- **\`useState()\`** – React hook used to manage the list of tasks dynamically inside the component.
+- **\`useState()\`** – React hook used to manage the list of tasks dynamically inside the components.
 
 ## 📘 Learn More
 
